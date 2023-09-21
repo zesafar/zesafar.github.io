@@ -1,5 +1,5 @@
 ---
-layout: tags
-icon: fas fa-tags
-order: 2
+# the default layout is 'page'
+icon: fa fa-file-text
+order: 4
 ---
