@@ -102,4 +102,4 @@ Yahia fares university • Medea, Algeria
 
 ## Certifications
 For the full list of my certificates please visit:
-
+[Certificates](../categories/certificate/)
