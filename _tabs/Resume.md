@@ -6,7 +6,7 @@ order: 4
 
 ## SUMMARY
 
-Automation engineer with more than 2 years of experience having advanced skills in PLC programming, touching multiple sectors, and proficient in root-cause analysis. Dedicated to delivering exceptional results, driving innovation, and collaborating effectively in fast-paced environments.
+Automation engineer with more than 3 years of experience having advanced skills in PLC programming and HMI & SCADA Design, touching multiple sectors, and proficient in root-cause analysis. Dedicated to delivering exceptional results, driving innovation, and collaborating effectively in fast-paced environments.
 
 ## EXPERIENCE
 
@@ -17,7 +17,8 @@ SPA Inter-Enterprise • Algiers, Algeria
 *	Led Ain Zada Water Treatment Plant project, utilizing S7-400H system, redundant IPC servers, HMIs, and ET200M modules for automation network architecture, performed on-site testing and comissioning, SCADA system design with WinCC Explorer, and programming with Step7 and instrument calibration.
 *	Improved Medea pumping station by programming the SOFREL S550 remote control system and integrating measuring stations via Modbus RTU.
 *	Prepared as built reports and electrical schematics and rewired wrong electrical wiring and replaced equipement ( bad relays , buttons , selectors ) for the Ghrib pumping station, to ensure the functionality of manual and automatic mode.
-*	I ll add more here later
+*	Contributed to the development of Khenchla's wastewater treatement plant in which we used a redundant S7-1500 system with 4 ET200MP distributed units, supervised and contributed to field servicing (installing and calibrating various sensors), comissioning, and project start up.
+*	Led team of technicians to troubleshoot Lahlef's wastewater treatement plant and helped in Design and comissioning of 2 SCADA systems (WinCC explorer 7.5) for two separate projects (Lahlef and DeurDeur's Water treatement plant)  
 
 **Automation Engineer** January 2022 - December 2022
 
@@ -36,7 +37,7 @@ LM Electric SARL • Algiers, Algeria
 Siemens • Algiers, Algeria
 
 *	Assisted in troubleshooting and optimizing Siemens PLC programs for various industrial automation projects, implement HMIs using Siemens WinCC software, provided technical assistance during project execution.
-*	Cocacola project : general maintenance and troubleshooting bugs manifesting from old design
+*	Cocacola project : General maintenance and troubleshooting bugs manifesting from old design
 *	Faderco project : Develop an automatic solution and a user interface for the water treatment station and fragrance preparation for the baby wipes
 
 ## EDUCATION
@@ -64,15 +65,15 @@ Yahia fares university • Medea, Algeria
 
 **Technical Skills:**
 
-> • Programming languages : Ladder, SCL, FBD, Python, PHP, C#
+> • Programming languages : Ladder , SCL , FBD , Python , PHP , C#
 >
-> • Electrical engineering : Design, wiring, EPLAN P8
+> • Electrical engineering : Design , wiring , EPLAN P8
 >
-> • System integration : Troubleshooting, commissioning, instrumentation
+> • System integration : Troubleshooting , commissioning , instrumentation
 >
-> • Industrial networks : Profinet, Profibus, Modbus RTU & TCP/IP
+> • Industrial networks : Profinet , Profibus , Modbus RTU & TCP/IP
 >
-> • Office tools : Word, Excel, PowerPoint, Visio
+> • Office tools : Microsoft Word , Excel , PowerPoint , Visio
 >
 > • Allen-Bradley PLC : RSLogix, Studio 5000
 >
