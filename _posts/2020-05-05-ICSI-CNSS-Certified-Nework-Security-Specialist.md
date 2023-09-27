@@ -6,4 +6,4 @@ categories: [Certificate]
 ---
 
 
-![ICSI | CNSS Certified Network Security Specialist](../../Certs/ICSI_9hwk9ytm_1695281241956-1.png "ICSI | CNSS Certified Network Security Specialist")
+![ICSI CNSS Certified Network Security Specialist](../../Certs/ICSI_9hwk9ytm_1695281241956-1.png "ICSI CNSS Certified Network Security Specialist")
