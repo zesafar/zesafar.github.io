@@ -6,4 +6,4 @@ categories: [Certificate]
 ---
 
 
-![Weidmuller Level 2 training Service Training PrintJet Connect and Advanced](../../Certs/Confirmation_of_participation_Zine-Eddine_Safar-Zitoun-1.png "Weidmuller Level 2 training Service Training PrintJet Connect and Advanced")
+![Weidmuller](../../Certs/Confirmation_of_participation_Zine-Eddine_Safar-Zitoun-1.png "Weidmuller")
