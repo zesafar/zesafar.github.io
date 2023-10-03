@@ -23,10 +23,11 @@ title: Z. Safar zitoun # the main title
 tagline: Automation engineer # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Experienced Automation Engineer, PLC & SCADA Programmer/Designer, Instrument and Control Engineer Currently located in the UAE United Arab Emirates
+
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ""
+url: "http://zsafar.blog"
 
 # github:
 #   username: github_username # change to your github username
